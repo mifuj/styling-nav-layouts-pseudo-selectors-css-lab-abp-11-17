@@ -29,6 +29,7 @@ nav a {
   text-decoration: none;
   color: #007bff;
   font-size: 18px;
+
 }
 
 #header a{
@@ -62,4 +63,9 @@ footer{
   margin-top: 80px;
   padding-top: 20px;
   color: #CCC;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  color: #0056b3;
 }
